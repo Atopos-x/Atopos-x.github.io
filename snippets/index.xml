@@ -12,7 +12,7 @@
       <link>https://Atopos-x.github.io/snippets/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Atopos-x.github.io/snippets/book/</guid>
-      <description>---&#xD;title: &amp;lt;% tp.file.title %&amp;gt;&#xD;aliases: tags:&#xD;- _Misc&#xD;date: &amp;lt;% tp.date.now() %&amp;gt;&#xD;time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt;&#xD;--- </description>
+      <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: - _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
     </item>
   </channel>
 </rss>
