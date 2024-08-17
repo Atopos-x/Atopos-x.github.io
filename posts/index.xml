@@ -10,17 +10,17 @@
     <atom:link href="https://Atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java笔记</title>
-      <link>https://Atopos-x.github.io/posts/about/</link>
+      <link>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0-1/</link>
       <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
-      <guid>https://Atopos-x.github.io/posts/about/</guid>
-      <description>Java笔记 第一章节 真tm难 ![[img/屏幕截图 2024-08-03 214655.png]]</description>
+      <guid>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0-1/</guid>
+      <description>Java笔记 第一章节 真tm难</description>
     </item>
     <item>
       <title>Java笔记</title>
       <link>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
       <guid>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</guid>
-      <description>Java笔记 第一章节 ![[img/bbc477d3a279e34d9f0000c2f0979f7c.jpg]] 真tm难</description>
+      <description>Java笔记 第一章节 ![[assets/bbc477d3a279e34d9f0000c2f0979f7c.jpg]] 真tm难</description>
     </item>
   </channel>
 </rss>
