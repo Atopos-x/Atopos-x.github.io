@@ -2,66 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atopos</title>
-    <link>https://Atopos-x.github.io/</link>
+    <link>https://atopos-x.github.io/</link>
     <description>Recent content on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 03 Aug 2024 19:26:18 +0800</lastBuildDate>
-    <atom:link href="https://Atopos-x.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos-x.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Java笔记</title>
-      <link>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
-      <guid>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</guid>
-      <description>Java笔记 第一章节 ![[assets/bbc4.jpg]] 真tm难</description>
-    </item>
-    <item>
-      <title>Java笔记第二章</title>
-      <link>https://Atopos-x.github.io/posts/java%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
-      <guid>https://Atopos-x.github.io/posts/java%E8%AE%B0%E5%BD%95/</guid>
-      <description>Java笔记 第二章节 真tm难</description>
+      <title></title>
+      <link>https://atopos-x.github.io/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/nav/</guid>
+      <description>INDX(�&#x9;���f�������������(����������������������������������1)�����P0)��،�����،�����،�����،��� ; 404.gif2)XF0)��،�����،�����،�����،���bg5)p�����0)������|ٌ�����ٌ�����ٌ�����ٌ���������������� �������c�a�r�t�o�g�r�a�p�h�y�.�s�v�g�5)�����p�Z�����0)������|ٌ�����ٌ�����ٌ�����ٌ���������������� �������C�A�R�T�O�G�~�1�.�S�V�G�������6)�����P0)��ٌ�����ٌ����ٌ�����ٌ��� m cat.svg7)hR0)vڌ���vڌ���vڌ���vڌ����� girl.jpg8)hR0)vڌ���zڌ���zڌ���zڌ���0�&amp;quot; hole.svg9)�L�����0)������zڌ����zڌ����zڌ����zڌ��������������������������i�c�o�n�s������)����&#xD;�p�Z�����0)������-ی����-ی����-ی����-ی������������������� �������i�n�f�i�n�i�t�y�.�s�v�g��������)����&#xD;�`�P�����0)������-ی����-ی����-ی����-ی����������w����� �������t�u�x�.�j�p�g��)�����h�T�����0)�����&amp;amp;�ی���&amp;amp;�ی���&amp;amp;�ی���&amp;amp;�ی����p������h����� �������&#x9;w�a�t�e�r�.�j�p�g������)����&#x9;�h�V�����0)�������ی�����ی�����ی�����ی���� ����������� ������� w�u�k�o�n�g�.�j�p�g����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������</description>
     </item>
     <item>
       <title></title>
-      <link>https://Atopos-x.github.io/snippets/book/</link>
+      <link>https://atopos-x.github.io/snippets/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/snippets/book/</guid>
+      <guid>https://atopos-x.github.io/snippets/book/</guid>
       <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: - _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
     </item>
     <item>
       <title>About</title>
-      <link>https://Atopos-x.github.io/about/</link>
+      <link>https://atopos-x.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/about/</guid>
+      <guid>https://atopos-x.github.io/about/</guid>
       <description>关于我的信息： 我是来自中国，是一名Java程序员</description>
     </item>
     <item>
       <title>Archive</title>
-      <link>https://Atopos-x.github.io/archive/</link>
+      <link>https://atopos-x.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/archive/</guid>
+      <guid>https://atopos-x.github.io/archive/</guid>
       <description> </description>
     </item>
     <item>
-      <title>Nav</title>
-      <link>https://Atopos-x.github.io/nav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/nav/</guid>
-      <description>🌞 我的 Atopos 🔨 工具 Revo Uninstaller Everything Snipaste 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 廖雪峰的官方网站 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术 牛客网 🍺 博客 爱涂鸦啊 知行合一 ☕️ 休闲 K</description>
-    </item>
-    <item>
       <title>Notes</title>
-      <link>https://Atopos-x.github.io/notes/</link>
+      <link>https://atopos-x.github.io/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/notes/</guid>
+      <guid>https://atopos-x.github.io/notes/</guid>
       <description> </description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://Atopos-x.github.io/search/</link>
+      <link>https://atopos-x.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Atopos-x.github.io/search/</guid>
+      <guid>https://atopos-x.github.io/search/</guid>
       <description> </description>
     </item>
   </channel>
