@@ -2,25 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Atopos</title>
-    <link>https://Atopos-x.github.io/posts/</link>
+    <link>https://atopos-x.github.io/posts/</link>
     <description>Recent content in Posts on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 03 Aug 2024 19:26:18 +0800</lastBuildDate>
-    <atom:link href="https://Atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Java笔记</title>
-      <link>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
-      <guid>https://Atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</guid>
-      <description>Java笔记 第一章节 ![[assets/bbc4.jpg]] 真tm难</description>
-    </item>
-    <item>
-      <title>Java笔记第二章</title>
-      <link>https://Atopos-x.github.io/posts/java%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Sat, 03 Aug 2024 19:26:18 +0800</pubDate>
-      <guid>https://Atopos-x.github.io/posts/java%E8%AE%B0%E5%BD%95/</guid>
-      <description>Java笔记 第二章节 真tm难</description>
+      <title></title>
+      <link>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
