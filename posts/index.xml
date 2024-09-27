@@ -9,10 +9,17 @@
     <atom:link href="https://atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</link>
+      <link>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0day01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0/</guid>
+      <guid>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0day01/</guid>
       <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://atopos-x.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
+      <description>测试</description>
     </item>
   </channel>
 </rss>
