@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://atopos-x.github.io/tags/_%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atopos-x.github.io/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0day01/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atopos-x.github.io/posts/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atopos-x.github.io/tags/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atopos-x.github.io/posts/my-first-post/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/snippets/book/</loc>
+    <loc>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</loc>
+  </url><url>
+    <loc>https://atopos-x.github.io/tags/_misc/</loc>
+  </url><url>
+    <loc>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</loc>
   </url><url>
     <loc>https://atopos-x.github.io/about/</loc>
   </url><url>
     <loc>https://atopos-x.github.io/archive/</loc>
-  </url><url>
-    <loc>https://atopos-x.github.io/</loc>
   </url><url>
     <loc>https://atopos-x.github.io/categories/</loc>
   </url><url>
@@ -20,12 +35,8 @@
   </url><url>
     <loc>https://atopos-x.github.io/notes/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/</loc>
-  </url><url>
     <loc>https://atopos-x.github.io/search/</loc>
   </url><url>
     <loc>https://atopos-x.github.io/snippets/</loc>
-  </url><url>
-    <loc>https://atopos-x.github.io/tags/</loc>
   </url>
 </urlset>

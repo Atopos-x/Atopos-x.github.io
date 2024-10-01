@@ -9,10 +9,17 @@
     <atom:link href="https://atopos-x.github.io/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://atopos-x.github.io/snippets/book/</link>
+      <link>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/snippets/book/</guid>
+      <guid>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</guid>
       <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: - _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
+    </item>
+    <item>
+      <title>&lt;% tp.file.title %&gt;</title>
+      <link>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

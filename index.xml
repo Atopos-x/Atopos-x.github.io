@@ -6,11 +6,12 @@
     <description>Recent content on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atopos-x.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Java笔记day01</title>
       <link>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0day01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/java%E7%AC%94%E8%AE%B0day01/</guid>
       <description></description>
     </item>
@@ -19,14 +20,21 @@
       <link>https://atopos-x.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
-      <description>测试</description>
+      <description>--- title: my-first-post aliases: tags: - _Misc date: 2024-10-01 time: 15:07 --- 是的是的是的是的</description>
     </item>
     <item>
       <title></title>
-      <link>https://atopos-x.github.io/snippets/book/</link>
+      <link>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/snippets/book/</guid>
+      <guid>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</guid>
       <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: - _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
+    </item>
+    <item>
+      <title>&lt;% tp.file.title %&gt;</title>
+      <link>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
     </item>
     <item>
       <title>About</title>
